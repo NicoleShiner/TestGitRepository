@@ -4,7 +4,7 @@ import java.util.ArrayList;
 
 public class NeueKlasse {
 
-	private ArrayList<String> schüler;
+	private ArrayList<String> schueler;
 	private String klasse;
 	
 	public NeueKlasse(String klasse) {
@@ -25,4 +25,7 @@ public class NeueKlasse {
 	public void setKlasse(String klasse) {
 		this.klasse = klasse;
 	}
+	
+//	sehe die Klasse nach dem pull 
+//	- Nicole
 }
