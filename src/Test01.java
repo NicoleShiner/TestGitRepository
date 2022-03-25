@@ -8,6 +8,7 @@ public class Test01 {
 		System.out.println("hello person");
 		System.out.println("Meine Veränderung");
 		System.out.println("hello");
+		System.out.println("Hallo Rodez!");
 	}
 
 }
