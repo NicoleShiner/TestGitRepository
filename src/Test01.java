@@ -15,6 +15,7 @@ public class Test01 {
 				System.out.println("Hallo Rodez!");
 				System.out.println("Seht ihr die Klasse NeueKlasse, sehe sie nicht bei mir");
 				System.out.println("Sehe sie! schau mal in deinem package explorer im src ordner. -Nicole");
+				System.out.println("Leon");
 
 	}
 
