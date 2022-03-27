@@ -28,4 +28,6 @@ public class NeueKlasse {
 	
 //	sehe die Klasse nach dem pull 
 //	- Nicole
+// Ich habe das Projekt aus git importiert und kann es ändern ind pushen
+//  - Hendrik
 }
