@@ -20,6 +20,7 @@ public class Test01 {
 				
 				
 				System.out.println("author name change test-2");
+				int i = 0;
 				
 				
 				
